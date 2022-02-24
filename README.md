@@ -1,4 +1,10 @@
 ### Hi there 👋
+Connect with me on these platforms:
+
+<a href="https://twitter.com/abdoulayegk"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/Twitter_Logo_Blue_gbtagu.png" alt="drawing" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;<a https://www.linkedin.com/in/abdoulaye-balde-450152128/"><img 
+
+
+
 
 <!--
 **abdoulayegk/abdoulayegk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
