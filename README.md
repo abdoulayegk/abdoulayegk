@@ -2,8 +2,10 @@
 
 <!-- <a href="https://twitter.com/abdoulayegk"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/Twitter_Logo_Blue_gbtagu.png" alt="drawing" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp; -->
 
-- 🌱 I am Abdoulaye Balde a junior Data Scientist who is passionate about Data Science and Machine Learning.
-- 👯 I am interested in impacting people lives and am passionate about learning and enjoy sharing my knowledge.
+- 🌱 My name is Abdoulaye Balde I am a graduate student who is passionate about data science and machine learning.
+- 👯My research focus on the intersection of Machine learning and healthcare. I am also interested in Fairness, Accountability,and Transparency in AI.
+
+- To get to know me better please have a look at my resume.
 
 <br>
 <div>
