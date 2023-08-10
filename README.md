@@ -2,7 +2,7 @@
 
 <!-- <a href="https://twitter.com/abdoulayegk"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/Twitter_Logo_Blue_gbtagu.png" alt="drawing" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp; -->
 
-- 🌱 My name is Abdoulaye Balde I am a graduate student who is passionate about data science and machine learning.
+- Hi! I am Abdoulaye Balde, a graduate student with a fervent passion for data science and machine learning.
 - 👯My research focus on the intersection of Machine learning and healthcare. I am also interested in Fairness, Accountability,and Transparency in AI.
 
 - To get to know me better please have a look at my resume.
@@ -45,8 +45,8 @@
 <!-- ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp; -->
 
 📫 Connect with me on:<br />
-[![linkdein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdoulaye-balde-450152128/)&nbsp;
-[![e-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdoulayegnbalde@gmail.com)&nbsp;
+[![linkdein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdoulayegk)&nbsp;
+[![e-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdoulahi.pro96@gmail.com)&nbsp;
 [![twitter](https://img.shields.io/badge/twitter-20BEFF?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/abdoulayegk)&nbsp;
 
 #### Boom: <br />
