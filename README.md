@@ -1,11 +1,25 @@
-### Hi there 👋
+## ✨ Hi there! I'm Abdoulaye Baldé  
 
-<!-- <a href="https://twitter.com/abdoulayegk"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/Twitter_Logo_Blue_gbtagu.png" alt="drawing" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp; -->
+🎓 **Graduate Student @ UQAM | Data Science & Machine Learning Enthusiast**  
 
-- Hi! I am Abdoulaye Balde, a graduate student with a fervent passion for data science and machine learning.
-- 👯My research focus on the intersection of Machine learning and healthcare. I am also interested in Fairness, Accountability,and Transparency in AI.
+I am passionate about leveraging **machine learning** to drive innovation in **healthcare and Finance**. My research explores the intersection of AI and healthcare, with a strong focus on **Fairness, Accountability, and Transparency in AI**.  
 
-- To get to know me better please have a look at my resume.
+### 🔍 Key Interests  
+- Machine Learning & Healthcare  
+- Ethical AI (Fairness, Accountability, Transparency)  
+- Data Science & Big Data  
+
+### 📄 Want to know more?  
+Check out my [resume](#) to learn about my background and experience.  
+
+### 🚀 Let’s collaborate!  
+I’m always open to interesting projects and discussions. Feel free to connect!  
+
+---
+
+### 📂 Featured Projects  
+- 
+- 
 
 <br>
 <div>
